@@ -7,5 +7,5 @@ Based on the work Salma did in her blog post: [Build a business card CLI tool](h
 
 I would like to update this in the near future
 
-- [] Pull data from my own API 
-- [] Add some more details 
+- [ ] Pull data from my own API 
+- [ ] Add some more details 
