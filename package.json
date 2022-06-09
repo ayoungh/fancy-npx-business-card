@@ -1,0 +1,14 @@
+{
+  "name": "fancy-business-card",
+  "version": "1.0.0",
+  "description": "A fancy business card using npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fancy-business-card": "./index.js"
+  },
+  "author": "ayoungh",
+  "license": "MIT"
+}
