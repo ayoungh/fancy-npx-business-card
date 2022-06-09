@@ -2,13 +2,17 @@
   "name": "ayoungh",
   "version": "1.0.0",
   "description": "Ayoungh fancy business card using npx",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "fancy-business-card": "./index.js"
+    "fancy-business-card": "./index.mjs"
   },
   "author": "ayoungh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1"
+  }
 }
